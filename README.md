@@ -17,5 +17,3 @@
 
 ---
 
-
-# Challenge_Hotel_Alura_T5
